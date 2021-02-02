@@ -1,0 +1,22 @@
+const avatarData = [
+  'https://pic2.zhimg.com/v2-7b5bcebf83d772811959c3b41b04f127_l.jpg',
+  'https://pic3.zhimg.com/v2-486bc5262c7eab97d211ca06428b266d_l.jpg',
+  'https://pic2.zhimg.com/v2-267829a0d669231dd54ad5aa136fe405_l.jpg',
+  'https://pic2.zhimg.com/da8e974dc_l.jpg',
+  'https://pic4.zhimg.com/v2-f3909116f8924d601fc7aa0fc7af124b_l.jpg',
+  'https://pic2.zhimg.com/v2-89b4013187da82c0fe8e38d7c9ad5c64_l.jpg',
+  'https://pic1.zhimg.com/v2-7182e356577c221bbf89e73eb4b14c88_l.jpg',
+  'https://pic1.zhimg.com/da8e974dc_l.jpg',
+  'https://pic4.zhimg.com/v2-e0f4b7124353df1bdd4de4b76b2730ed_l.jpg',
+  'https://pic3.zhimg.com/da8e974dc_l.jpg',
+  'https://pic4.zhimg.com/da8e974dc_l.jpg',
+  'https://pic2.zhimg.com/v2-bce52107b3d9ab0b11fcb92aad48bccd_l.jpg',
+  'https://pic3.zhimg.com/v2-aa310801249e6e82e338ebac800d4c94_l.jpg',
+  'https://pic4.zhimg.com/f296a26af_l.jpg',
+  'https://pic1.zhimg.com/da8e974dc_l.jpg',
+  'https://pic4.zhimg.com/v2-71ac035de5d85f944b4781f94493c017_l.jpg',
+  'https://pic2.zhimg.com/v2-9204a7af253c701bb14a4253b6675d8c_l.jpg',
+  'https://pic3.zhimg.com/v2-81208ca9777815c9da82f632f2d3b6e2_l.jpg',
+  'https://pic1.zhimg.com/v2-201723b1b59dc3a0c9f013178bd77612_l.jpg',
+  'https://pic3.zhimg.com/da8e974dc_l.jpg'
+];
