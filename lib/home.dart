@@ -57,9 +57,8 @@ class _HomePageState extends State<HomePage> {
                           labelStyle: TextStyle(
                               // fontSize: 16,
                               ),
-                          // helperText: "最大可设置为200",
-                          // hintText: "输入点赞数量",
-                          counterText: "最大可设置为200",
+                          // helperText: "最大可设置为120",
+                          counterText: "最大可设置为120",
                           fillColor: Colors.grey[100],
                           filled: true,
                         ),
@@ -73,8 +72,8 @@ class _HomePageState extends State<HomePage> {
                           if (value.isEmpty) {
                             return '请填写点赞数量';
                           }
-                          if (int.parse(value) > 200) {
-                            return '最大可设置为200';
+                          if (int.parse(value) > 120) {
+                            return '最大可设置为120';
                           }
                           return null;
                         },
